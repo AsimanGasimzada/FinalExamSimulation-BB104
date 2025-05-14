@@ -1,0 +1,474 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C17519E2-418A-4EEC-8BD1-9D7F64975F16}|Drool-FrontToBack\\Drool-FrontToBack.csproj|c:\\users\\asiman\\source\\repos\\drool-fronttoback\\drool-fronttoback\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17519E2-418A-4EEC-8BD1-9D7F64975F16}|Drool-FrontToBack\\Drool-FrontToBack.csproj|solutionrelative:drool-fronttoback\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17519E2-418A-4EEC-8BD1-9D7F64975F16}|Drool-FrontToBack\\Drool-FrontToBack.csproj|c:\\users\\asiman\\source\\repos\\drool-fronttoback\\drool-fronttoback\\viewmodels\\productviewmodels\\productupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17519E2-418A-4EEC-8BD1-9D7F64975F16}|Drool-FrontToBack\\Drool-FrontToBack.csproj|solutionrelative:drool-fronttoback\\viewmodels\\productviewmodels\\productupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17519E2-418A-4EEC-8BD1-9D7F64975F16}|Drool-FrontToBack\\Drool-FrontToBack.csproj|c:\\users\\asiman\\source\\repos\\drool-fronttoback\\drool-fronttoback\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C17519E2-418A-4EEC-8BD1-9D7F64975F16}|Drool-FrontToBack\\Drool-FrontToBack.csproj|solutionrelative:drool-fronttoback\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17519E2-418A-4EEC-8BD1-9D7F64975F16}|Drool-FrontToBack\\Drool-FrontToBack.csproj|c:\\users\\asiman\\source\\repos\\drool-fronttoback\\drool-fronttoback\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C17519E2-418A-4EEC-8BD1-9D7F64975F16}|Drool-FrontToBack\\Drool-FrontToBack.csproj|solutionrelative:drool-fronttoback\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17519E2-418A-4EEC-8BD1-9D7F64975F16}|Drool-FrontToBack\\Drool-FrontToBack.csproj|c:\\users\\asiman\\source\\repos\\drool-fronttoback\\drool-fronttoback\\viewmodels\\productviewmodels\\productcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17519E2-418A-4EEC-8BD1-9D7F64975F16}|Drool-FrontToBack\\Drool-FrontToBack.csproj|solutionrelative:drool-fronttoback\\viewmodels\\productviewmodels\\productcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17519E2-418A-4EEC-8BD1-9D7F64975F16}|Drool-FrontToBack\\Drool-FrontToBack.csproj|c:\\users\\asiman\\source\\repos\\drool-fronttoback\\drool-fronttoback\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C17519E2-418A-4EEC-8BD1-9D7F64975F16}|Drool-FrontToBack\\Drool-FrontToBack.csproj|solutionrelative:drool-fronttoback\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17519E2-418A-4EEC-8BD1-9D7F64975F16}|Drool-FrontToBack\\Drool-FrontToBack.csproj|c:\\users\\asiman\\source\\repos\\drool-fronttoback\\drool-fronttoback\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C17519E2-418A-4EEC-8BD1-9D7F64975F16}|Drool-FrontToBack\\Drool-FrontToBack.csproj|solutionrelative:drool-fronttoback\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17519E2-418A-4EEC-8BD1-9D7F64975F16}|Drool-FrontToBack\\Drool-FrontToBack.csproj|c:\\users\\asiman\\source\\repos\\drool-fronttoback\\drool-fronttoback\\viewmodels\\productviewmodels\\productgetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17519E2-418A-4EEC-8BD1-9D7F64975F16}|Drool-FrontToBack\\Drool-FrontToBack.csproj|solutionrelative:drool-fronttoback\\viewmodels\\productviewmodels\\productgetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17519E2-418A-4EEC-8BD1-9D7F64975F16}|Drool-FrontToBack\\Drool-FrontToBack.csproj|c:\\users\\asiman\\source\\repos\\drool-fronttoback\\drool-fronttoback\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17519E2-418A-4EEC-8BD1-9D7F64975F16}|Drool-FrontToBack\\Drool-FrontToBack.csproj|solutionrelative:drool-fronttoback\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17519E2-418A-4EEC-8BD1-9D7F64975F16}|Drool-FrontToBack\\Drool-FrontToBack.csproj|c:\\users\\asiman\\source\\repos\\drool-fronttoback\\drool-fronttoback\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17519E2-418A-4EEC-8BD1-9D7F64975F16}|Drool-FrontToBack\\Drool-FrontToBack.csproj|solutionrelative:drool-fronttoback\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17519E2-418A-4EEC-8BD1-9D7F64975F16}|Drool-FrontToBack\\Drool-FrontToBack.csproj|c:\\users\\asiman\\source\\repos\\drool-fronttoback\\drool-fronttoback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17519E2-418A-4EEC-8BD1-9D7F64975F16}|Drool-FrontToBack\\Drool-FrontToBack.csproj|solutionrelative:drool-fronttoback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17519E2-418A-4EEC-8BD1-9D7F64975F16}|Drool-FrontToBack\\Drool-FrontToBack.csproj|c:\\users\\asiman\\source\\repos\\drool-fronttoback\\drool-fronttoback\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17519E2-418A-4EEC-8BD1-9D7F64975F16}|Drool-FrontToBack\\Drool-FrontToBack.csproj|solutionrelative:drool-fronttoback\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17519E2-418A-4EEC-8BD1-9D7F64975F16}|Drool-FrontToBack\\Drool-FrontToBack.csproj|c:\\users\\asiman\\source\\repos\\drool-fronttoback\\drool-fronttoback\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C17519E2-418A-4EEC-8BD1-9D7F64975F16}|Drool-FrontToBack\\Drool-FrontToBack.csproj|solutionrelative:drool-fronttoback\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17519E2-418A-4EEC-8BD1-9D7F64975F16}|Drool-FrontToBack\\Drool-FrontToBack.csproj|c:\\users\\asiman\\source\\repos\\drool-fronttoback\\drool-fronttoback\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17519E2-418A-4EEC-8BD1-9D7F64975F16}|Drool-FrontToBack\\Drool-FrontToBack.csproj|solutionrelative:drool-fronttoback\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17519E2-418A-4EEC-8BD1-9D7F64975F16}|Drool-FrontToBack\\Drool-FrontToBack.csproj|c:\\users\\asiman\\source\\repos\\drool-fronttoback\\drool-fronttoback\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C17519E2-418A-4EEC-8BD1-9D7F64975F16}|Drool-FrontToBack\\Drool-FrontToBack.csproj|solutionrelative:drool-fronttoback\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17519E2-418A-4EEC-8BD1-9D7F64975F16}|Drool-FrontToBack\\Drool-FrontToBack.csproj|c:\\users\\asiman\\source\\repos\\drool-fronttoback\\drool-fronttoback\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C17519E2-418A-4EEC-8BD1-9D7F64975F16}|Drool-FrontToBack\\Drool-FrontToBack.csproj|solutionrelative:drool-fronttoback\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\Migrations\\20250514080458_addedProductsAndCategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Drool-FrontToBack\\Migrations\\20250514080458_addedProductsAndCategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17519E2-418A-4EEC-8BD1-9D7F64975F16}|Drool-FrontToBack\\Drool-FrontToBack.csproj|c:\\users\\asiman\\source\\repos\\drool-fronttoback\\drool-fronttoback\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C17519E2-418A-4EEC-8BD1-9D7F64975F16}|Drool-FrontToBack\\Drool-FrontToBack.csproj|solutionrelative:drool-fronttoback\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17519E2-418A-4EEC-8BD1-9D7F64975F16}|Drool-FrontToBack\\Drool-FrontToBack.csproj|c:\\users\\asiman\\source\\repos\\drool-fronttoback\\drool-fronttoback\\migrations\\20250514080342_initdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17519E2-418A-4EEC-8BD1-9D7F64975F16}|Drool-FrontToBack\\Drool-FrontToBack.csproj|solutionrelative:drool-fronttoback\\migrations\\20250514080342_initdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17519E2-418A-4EEC-8BD1-9D7F64975F16}|Drool-FrontToBack\\Drool-FrontToBack.csproj|c:\\users\\asiman\\source\\repos\\drool-fronttoback\\drool-fronttoback\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17519E2-418A-4EEC-8BD1-9D7F64975F16}|Drool-FrontToBack\\Drool-FrontToBack.csproj|solutionrelative:drool-fronttoback\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17519E2-418A-4EEC-8BD1-9D7F64975F16}|Drool-FrontToBack\\Drool-FrontToBack.csproj|c:\\users\\asiman\\source\\repos\\drool-fronttoback\\drool-fronttoback\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C17519E2-418A-4EEC-8BD1-9D7F64975F16}|Drool-FrontToBack\\Drool-FrontToBack.csproj|solutionrelative:drool-fronttoback\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17519E2-418A-4EEC-8BD1-9D7F64975F16}|Drool-FrontToBack\\Drool-FrontToBack.csproj|c:\\users\\asiman\\source\\repos\\drool-fronttoback\\drool-fronttoback\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C17519E2-418A-4EEC-8BD1-9D7F64975F16}|Drool-FrontToBack\\Drool-FrontToBack.csproj|solutionrelative:drool-fronttoback\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17519E2-418A-4EEC-8BD1-9D7F64975F16}|Drool-FrontToBack\\Drool-FrontToBack.csproj|c:\\users\\asiman\\source\\repos\\drool-fronttoback\\drool-fronttoback\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C17519E2-418A-4EEC-8BD1-9D7F64975F16}|Drool-FrontToBack\\Drool-FrontToBack.csproj|solutionrelative:drool-fronttoback\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17519E2-418A-4EEC-8BD1-9D7F64975F16}|Drool-FrontToBack\\Drool-FrontToBack.csproj|c:\\users\\asiman\\source\\repos\\drool-fronttoback\\drool-fronttoback\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C17519E2-418A-4EEC-8BD1-9D7F64975F16}|Drool-FrontToBack\\Drool-FrontToBack.csproj|solutionrelative:drool-fronttoback\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17519E2-418A-4EEC-8BD1-9D7F64975F16}|Drool-FrontToBack\\Drool-FrontToBack.csproj|c:\\users\\asiman\\source\\repos\\drool-fronttoback\\drool-fronttoback\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17519E2-418A-4EEC-8BD1-9D7F64975F16}|Drool-FrontToBack\\Drool-FrontToBack.csproj|solutionrelative:drool-fronttoback\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17519E2-418A-4EEC-8BD1-9D7F64975F16}|Drool-FrontToBack\\Drool-FrontToBack.csproj|c:\\users\\asiman\\source\\repos\\drool-fronttoback\\drool-fronttoback\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17519E2-418A-4EEC-8BD1-9D7F64975F16}|Drool-FrontToBack\\Drool-FrontToBack.csproj|solutionrelative:drool-fronttoback\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "Drool-FrontToBack\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "Drool-FrontToBack\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T09:11:20.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\ViewModels\\ProductViewModels\\ProductUpdateVM.cs",
+              "RelativeDocumentMoniker": "Drool-FrontToBack\\ViewModels\\ProductViewModels\\ProductUpdateVM.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\ViewModels\\ProductViewModels\\ProductUpdateVM.cs",
+              "RelativeToolTip": "Drool-FrontToBack\\ViewModels\\ProductViewModels\\ProductUpdateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T09:11:08.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\ViewModels\\ProductViewModels\\ProductCreateVM.cs",
+              "RelativeDocumentMoniker": "Drool-FrontToBack\\ViewModels\\ProductViewModels\\ProductCreateVM.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\ViewModels\\ProductViewModels\\ProductCreateVM.cs",
+              "RelativeToolTip": "Drool-FrontToBack\\ViewModels\\ProductViewModels\\ProductCreateVM.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T08:28:40.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Drool-FrontToBack\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Drool-FrontToBack\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwCQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T08:27:24.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Drool-FrontToBack\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Drool-FrontToBack\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T08:19:21.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductGetVM.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\ViewModels\\ProductViewModels\\ProductGetVM.cs",
+              "RelativeDocumentMoniker": "Drool-FrontToBack\\ViewModels\\ProductViewModels\\ProductGetVM.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\ViewModels\\ProductViewModels\\ProductGetVM.cs",
+              "RelativeToolTip": "Drool-FrontToBack\\ViewModels\\ProductViewModels\\ProductGetVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T08:17:15.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Drool-FrontToBack\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\Areas\\Admin\\Controllers\\ProductController.cs*",
+              "RelativeToolTip": "Drool-FrontToBack\\Areas\\Admin\\Controllers\\ProductController.cs*",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAuwLAAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T08:14:26.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Drool-FrontToBack\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Drool-FrontToBack\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T08:13:56.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Drool-FrontToBack\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Drool-FrontToBack\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T08:13:48.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Drool-FrontToBack\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Drool-FrontToBack\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T08:06:36.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Drool-FrontToBack\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "Drool-FrontToBack\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T07:59:06.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\Program.cs",
+              "RelativeDocumentMoniker": "Drool-FrontToBack\\Program.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\Program.cs",
+              "RelativeToolTip": "Drool-FrontToBack\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T08:00:51.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Drool-FrontToBack\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\Models\\Product.cs",
+              "RelativeToolTip": "Drool-FrontToBack\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T07:56:26.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Drool-FrontToBack\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\Models\\Category.cs",
+              "RelativeToolTip": "Drool-FrontToBack\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T08:04:49.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Drool-FrontToBack\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Drool-FrontToBack\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB8BAAAAAAAAAAASwCoBAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T08:09:54.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Drool-FrontToBack\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Drool-FrontToBack\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T08:06:44.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250514080458_addedProductsAndCategories.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\Migrations\\20250514080458_addedProductsAndCategories.cs",
+              "RelativeDocumentMoniker": "Drool-FrontToBack\\Migrations\\20250514080458_addedProductsAndCategories.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\Migrations\\20250514080458_addedProductsAndCategories.cs",
+              "RelativeToolTip": "Drool-FrontToBack\\Migrations\\20250514080458_addedProductsAndCategories.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T08:04:58.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250514080342_initDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\Migrations\\20250514080342_initDatabase.cs",
+              "RelativeDocumentMoniker": "Drool-FrontToBack\\Migrations\\20250514080342_initDatabase.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\Migrations\\20250514080342_initDatabase.cs",
+              "RelativeToolTip": "Drool-FrontToBack\\Migrations\\20250514080342_initDatabase.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T08:03:43.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\appsettings.json",
+              "RelativeDocumentMoniker": "Drool-FrontToBack\\appsettings.json",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\appsettings.json",
+              "RelativeToolTip": "Drool-FrontToBack\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-14T08:02:21.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\Models\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Drool-FrontToBack\\Models\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\Models\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "Drool-FrontToBack\\Models\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T07:56:44.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Drool-FrontToBack\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Drool-FrontToBack\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T09:49:03.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Drool-FrontToBack\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Drool-FrontToBack\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAuwFsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T09:47:00.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "Drool-FrontToBack\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "Drool-FrontToBack\\Views\\About\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T09:45:50.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "Drool-FrontToBack\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "Drool-FrontToBack\\Controllers\\AboutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:45:43.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Drool-FrontToBack\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Drool-FrontToBack\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T09:43:22.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Drool-FrontToBack\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\Drool-FrontToBack\\Drool-FrontToBack\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Drool-FrontToBack\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:42:52.054Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

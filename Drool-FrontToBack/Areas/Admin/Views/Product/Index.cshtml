@@ -1,0 +1,32 @@
+﻿    @model List<ProductGetVM>
+<table class="table">
+
+    <a class="btn btn-success" asp-action="Create"> Create</a>
+  <thead>
+    <tr>
+      <th scope="col">Id</th>
+      <th scope="col">Image</th>
+      <th scope="col">Name</th>
+      <th scope="col">Description</th>
+      <th scope="col">Actions</th>
+    </tr>
+  </thead>
+  <tbody>
+@foreach (var product in Model)
+        {
+            <tr>
+                <th scope="row">@product.Id</th>
+                <td><img width="50" height="50" src="~/images/@product.ImagePath"/></td>
+                <td>@product.Name</td>
+                <td>@product.Description</td>
+                <td>
+
+                    <a class="btn btn-warning" asp-action="Update" asp-route-id="@product.Id">Update</a>
+                    <a class="btn btn-danger" asp-action="Delete" asp-route-id="@product.Id">Delete</a>
+
+                </td>
+            </tr>
+
+        }
+  </tbody>
+</table>
