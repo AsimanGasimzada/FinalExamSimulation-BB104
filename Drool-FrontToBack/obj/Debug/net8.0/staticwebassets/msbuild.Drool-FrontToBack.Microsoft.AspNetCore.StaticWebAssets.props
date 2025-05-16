@@ -33480,12 +33480,12 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\style.css.map'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\1eedd140-2b00-478d-ade8-2209d60511d8assets_task_01jtmpsrjnft4vxf9fpx82ha59_1746599237_img_0.webp'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\2a7c9070-ac5b-48e1-87ab-946a98640cbfassets_task_01jtmpsrjnft4vxf9fpx82ha59_1746599237_img_0.webp'))">
       <SourceType>Package</SourceType>
       <SourceId>Drool-FrontToBack</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Drool-FrontToBack</BasePath>
-      <RelativePath>images/1eedd140-2b00-478d-ade8-2209d60511d8assets_task_01jtmpsrjnft4vxf9fpx82ha59_1746599237_img_0.webp</RelativePath>
+      <RelativePath>images/2a7c9070-ac5b-48e1-87ab-946a98640cbfassets_task_01jtmpsrjnft4vxf9fpx82ha59_1746599237_img_0.webp</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -33496,25 +33496,7 @@
       <Integrity>j5i+imauSxHsSXdWmNLheR7mlUEUJqOPVyty+2Q+ONo=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\1eedd140-2b00-478d-ade8-2209d60511d8assets_task_01jtmpsrjnft4vxf9fpx82ha59_1746599237_img_0.webp'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\2879866a-c637-4e93-bbb5-0fcd21ff9fbfassets_task_01jtj21xcnepnr2fkzjncmj8zk_1746510426_img_0.webp'))">
-      <SourceType>Package</SourceType>
-      <SourceId>Drool-FrontToBack</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Drool-FrontToBack</BasePath>
-      <RelativePath>images/2879866a-c637-4e93-bbb5-0fcd21ff9fbfassets_task_01jtj21xcnepnr2fkzjncmj8zk_1746510426_img_0.webp</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>gto2l458jr</Fingerprint>
-      <Integrity>JP8ivZIocMZKoWRE4RjB/gypxBcpGKTmBlUBOwCrmKs=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\2879866a-c637-4e93-bbb5-0fcd21ff9fbfassets_task_01jtj21xcnepnr2fkzjncmj8zk_1746510426_img_0.webp'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\2a7c9070-ac5b-48e1-87ab-946a98640cbfassets_task_01jtmpsrjnft4vxf9fpx82ha59_1746599237_img_0.webp'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\2bf2488c-79bb-4a8f-85cc-c6c2ec2f8626assets_task_01jtmpsrjnft4vxf9fpx82ha59_1746599237_img_0.webp'))">
       <SourceType>Package</SourceType>
@@ -33533,6 +33515,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\2bf2488c-79bb-4a8f-85cc-c6c2ec2f8626assets_task_01jtmpsrjnft4vxf9fpx82ha59_1746599237_img_0.webp'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\34b7bfe1-6846-42dc-9244-e85f21437caeassets_task_01js2wfsw7e329vs875tk2ch6f_img_0.webp'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Drool-FrontToBack</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Drool-FrontToBack</BasePath>
+      <RelativePath>images/34b7bfe1-6846-42dc-9244-e85f21437caeassets_task_01js2wfsw7e329vs875tk2ch6f_img_0.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>0mmeus23st</Fingerprint>
+      <Integrity>COixit4Vn37owQkkZ/CfcgiTruJnc07UYQvjPgT4EhA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\34b7bfe1-6846-42dc-9244-e85f21437caeassets_task_01js2wfsw7e329vs875tk2ch6f_img_0.webp'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\49ca35ed-6e24-43b1-b855-d1bf4a66387fassets_task_01jtmpsrjnft4vxf9fpx82ha59_1746599237_img_0.webp'))">
       <SourceType>Package</SourceType>
@@ -33785,42 +33785,6 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\fb.png'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\fc94a187-39ae-48f5-8a2f-8fb981bcc3ecassets_task_01jtj21xcnepnr2fkzjncmj8zk_1746510426_img_0.webp'))">
-      <SourceType>Package</SourceType>
-      <SourceId>Drool-FrontToBack</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Drool-FrontToBack</BasePath>
-      <RelativePath>images/fc94a187-39ae-48f5-8a2f-8fb981bcc3ecassets_task_01jtj21xcnepnr2fkzjncmj8zk_1746510426_img_0.webp</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>gto2l458jr</Fingerprint>
-      <Integrity>JP8ivZIocMZKoWRE4RjB/gypxBcpGKTmBlUBOwCrmKs=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\fc94a187-39ae-48f5-8a2f-8fb981bcc3ecassets_task_01jtj21xcnepnr2fkzjncmj8zk_1746510426_img_0.webp'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\fish.jpg'))">
-      <SourceType>Package</SourceType>
-      <SourceId>Drool-FrontToBack</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Drool-FrontToBack</BasePath>
-      <RelativePath>images/fish.jpg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>v8n1enn8cz</Fingerprint>
-      <Integrity>Edq+702aOEGyuwCQppbOffggb4ijIZfh2UXN6fqoCd0=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\fish.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\heading-img.png'))">
       <SourceType>Package</SourceType>

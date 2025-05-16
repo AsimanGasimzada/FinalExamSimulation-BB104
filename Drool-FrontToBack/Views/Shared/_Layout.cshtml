@@ -35,6 +35,27 @@
                         <img src="~/images/logo.png" alt="">
                     </a>
                     <div class="" id="">
+
+
+                        <div>
+
+                            @if (User.Identity.IsAuthenticated)
+                            {
+                                <br />
+                                <br />
+                                <br />
+                                <h1>
+                                    Hello, @User.Identity.Name
+                                </h1>
+                                <a class="nav-link" asp-action="Logout" asp-controller="Account">Logout</a>
+                            }
+                            else
+                            {
+                                <a class="nav-link" asp-action="Login" asp-controller="Account">Login</a>
+                                <a class="nav-link" asp-action="Register" asp-controller="Account">Register</a>
+                            }
+
+                        </div>
                         <div class="User_option">
                             <form class="form-inline my-2  mb-3 mb-lg-0">
                                 <input type="search" placeholder="Search">
