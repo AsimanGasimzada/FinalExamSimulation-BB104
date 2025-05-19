@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Drool-FrontToBack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a487d96098d6ff17406fc7011109a588d001f805")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d745b92b3e58a248a01d68a2461452910334209b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Drool-FrontToBack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Drool-FrontToBack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

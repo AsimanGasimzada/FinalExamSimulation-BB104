@@ -1,4 +1,5 @@
 ﻿using Drool_FrontToBack.Models.Common;
+using Drool_FrontToBack.ViewModels.CategoryViewModels;
 
 namespace Drool_FrontToBack.ViewModels.ProductViewModels;
 
@@ -8,4 +9,5 @@ public class ProductGetVM
     public string Name { get; set; }
     public string Description { get; set; }
     public string ImagePath { get; set; }
+    public CategoryGetVM Category { get; set; }
 }

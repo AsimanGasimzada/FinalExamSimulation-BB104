@@ -3,7 +3,6 @@ using Drool_FrontToBack.Models;
 using Drool_FrontToBack.ViewModels.ProductViewModels;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using System.Threading.Tasks;
 
 namespace Drool_FrontToBack.Areas.Admin.Controllers;
 [Area("Admin")]
@@ -20,9 +19,8 @@ public class ProductController(AppDbContext _context, IWebHostEnvironment _envir
 
     public async Task<IActionResult> Create()
     {
-        var categories = await _context.Categories.ToListAsync();
 
-        ViewBag.Categories = categories;
+        await SetViewBagItems();
         return View();
     }
 
@@ -30,8 +28,7 @@ public class ProductController(AppDbContext _context, IWebHostEnvironment _envir
     public async Task<IActionResult> Create(ProductCreateVM vm)
     {
 
-        var categories = await _context.Categories.ToListAsync();
-        ViewBag.Categories = categories;
+        await SetViewBagItems();
 
         if (!ModelState.IsValid)
             return View(vm);
@@ -84,8 +81,7 @@ public class ProductController(AppDbContext _context, IWebHostEnvironment _envir
         if (product is null)
             return NotFound();
 
-        var categories = await _context.Categories.ToListAsync();
-        ViewBag.Categories = categories;
+        await SetViewBagItems();
 
         ProductUpdateVM vm = new()
         {
@@ -102,8 +98,7 @@ public class ProductController(AppDbContext _context, IWebHostEnvironment _envir
     [HttpPost]
     public async Task<IActionResult> Update(int id, ProductUpdateVM vm)
     {
-        var categories = await _context.Categories.ToListAsync();
-        ViewBag.Categories = categories;
+        await SetViewBagItems();
 
         if (!ModelState.IsValid)
             return View(vm);
@@ -162,6 +157,8 @@ public class ProductController(AppDbContext _context, IWebHostEnvironment _envir
         return RedirectToAction("Index");
     }
 
+  
+
     public async Task<IActionResult> Delete(int id)
     {
         var product = await _context.Products.FirstOrDefaultAsync(x => x.Id == id);
@@ -178,5 +175,11 @@ public class ProductController(AppDbContext _context, IWebHostEnvironment _envir
         }
 
         return RedirectToAction("Index");
+    }
+
+    private async Task SetViewBagItems()
+    {
+        var categories = await _context.Categories.ToListAsync();
+        ViewBag.Categories = categories;
     }
 }
